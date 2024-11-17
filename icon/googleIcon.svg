@@ -1,0 +1,11 @@
+<a data-g-event="product: analytics: overview" data-g-action="logo" data-g-label="global nav" href="/about/" class="h-c-header__company-logo-link" title="Google">
+        <svg alt="Google" role="img" class="h-c-header__company-logo-img
+            h-c-header__company-logo-img--standard">
+          <use xlink:href="#h-color-google-logo"></use>
+        </svg>
+
+        <svg alt="Google" role="img" class="h-c-header__company-logo-img
+            h-c-header__company-logo-img--reversed">
+          <use xlink:href="#h-white-google-logo"></use>
+        </svg>
+      </a>
